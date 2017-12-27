@@ -2,7 +2,7 @@
 
 A seriously simple wrapper around apt for Debian based systems.
 
-# Features?
+## Features?
 
 You never have to worry about this:
 
@@ -16,7 +16,7 @@ $ sudo apt install foo
 
 Saw automatically handles calling `sudo`.
 
-# Is That It?
+## Is That It?
 
 Yup.
 
