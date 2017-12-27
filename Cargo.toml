@@ -1,0 +1,8 @@
+[package]
+name = "saw"
+version = "0.1.0"
+authors = ["Christopher Davis <brainblastedmods at gmail dot com>"]
+
+[dependencies]
+runas = "0.1"
+clap = "2.2"
