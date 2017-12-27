@@ -15,6 +15,8 @@ $ sudo apt install foo
 ```
 
 Saw automatically handles calling `sudo`.
+Saw doesn't only work with install, though. It can be used in place of apt for every command, since it just
+passes all arguments straight to apt.
 
 ## Is That It?
 
