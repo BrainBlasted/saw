@@ -22,6 +22,11 @@ passes all arguments straight to apt.
 
 Yup.
 
+## Couldn't you have just-
+
+Probably. I was tired when I decided that making this would have been better than
+making an `apt` and alias to `sudo apt`.
+
 ```
 Copyright (C) 2017  Christopher Davis
 
